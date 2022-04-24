@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const URL = "http://localhost:4000";
+const URL = process.env.REACT_APP_HOST;
 
 export const getAll = () => {
   return axios.get(URL, {
