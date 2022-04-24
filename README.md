@@ -2,7 +2,7 @@
 Test project based on [AIA] using flickr API
 
 ## Deployment
-
+[Frontend Deployment - Netlify](https://aia-test-imagegallery.netlify.app/)
 
 ## Documentation
 
@@ -22,4 +22,4 @@ You may also see any lint errors in the console.
 
 
 ## Related ( Backend )
-
+[AIA-Backend-test](https://github.com/okidwijaya/backend-aia-test/)
